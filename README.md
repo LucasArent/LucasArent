@@ -3,8 +3,6 @@
 
 - 🔭 I want to work with: frontend
 - 🌱 I'm studing: Firebase and Jquery
-- 📫 For contact in e-Mail: arentlucas2708@gmail.com
-- 📫 For contact in LinkedIn:
 - 📫 For contact in number: +55 (48) 9 9177-8666
 - 
 

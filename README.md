@@ -11,6 +11,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://camo.githubusercontent.com/df1439c289b9cb4558e079a9110731e666976c4f2b6ef387b8fee78ca95375dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f66697265626173652e706e67">
+  <img align="center" height="30" width="40" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
 </div>
 
 <hr>

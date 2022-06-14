@@ -2,7 +2,7 @@
 
 
 - 🔭 I want to work with: frontend
-- 🌱 I'm studing now: Firebase and Jquery
+- 🌱 I'm studing now
 - 📫 For contact in number: +55 (48) 9 9177-8666
 - 
 

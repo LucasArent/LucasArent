@@ -1,8 +1,8 @@
 ### Hi everyone! 👋
 
 
-- 🔭 I want to work with: frontend
-- 🌱 I'm studing now
+- 🔭 I want to work with: developer web front end or developer full stack
+- 🌱 I'm studing now developer full stack
 - 📫 For contact in number: +55 (48) 9 9177-8666
 
 <div style="display: inline_block"><br>

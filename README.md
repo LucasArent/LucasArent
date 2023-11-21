@@ -1,7 +1,6 @@
 👋 Olá! Sou apaixonado por tecnologia, em busca de oportunidades para expandir meus conhecimentos. Adoro enfrentar desafios e me aventurar por novas áreas, com uma boa colaboração sempre. Adoraria me conectar as novas oportunidades e construir igualmente um bom futuro.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-arent-695b2923a/)
-[![Gmail]((https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](arentlucas2708@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasArent&layout=compact)
 

@@ -1,6 +1,7 @@
 👋 Olá! Sou apaixonado por tecnologia, em busca de oportunidades para expandir meus conhecimentos. Adoro enfrentar desafios e me aventurar por novas áreas, com uma boa colaboração sempre. Adoraria me conectar as novas oportunidades e construir igualmente um bom futuro.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasArent&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasArent&show_icons=true&theme=transparent)
 
 ## Primary Skill
 
